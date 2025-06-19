@@ -1,0 +1,10 @@
+.banner {
+    background-image: url('./assets/img/header-background.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:800px;
+
+    img {
+        width: 100%;
+    }
+}
